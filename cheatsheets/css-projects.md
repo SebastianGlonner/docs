@@ -29,3 +29,6 @@
 the sidebar in a special way we use *context* classes which modifies the styling of our elements appropriately e.g. :
 - **.sidebar__btn {}** to modify the button inside the sidebar
 - **.has-sidebar__btn {}** to modify the sidebar if the button lives inside the bar
+
+# Further reading
+> [Css Guidelines](https://github.com/SebastianGlonner/docs/blob/master/guides/css.md)
