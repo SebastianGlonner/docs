@@ -16,8 +16,8 @@ restarting the server etc.
 - improve developer skills and improve code quality because
 fast and good test cases requires to think more decoupled and component like
 
-- automated tests is near to automated test data. Which might save tons of time
-if dont have to create test data by hand
+- automated tests most like are comming with automated test data. Which save tons of time
+if you dont have to create test data by hand, but always can create it automatically
 
 - easier introduction for new developers
 
