@@ -4,6 +4,12 @@ As well as serve as reference and act as
 "fantastic but to long to read again and again"
 kinda repository.
 
+# General
+
+> Collection of general information, information scientist should be aware of
+
+- [Latency numbers](https://github.com/SebastianGlonner/docs/blob/master/general/latency_numbers.md)
+
 # CheatSheets
 
 > Collection of CheatSheets / Summaries / References about various topics
