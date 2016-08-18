@@ -24,3 +24,12 @@ if you dont have to create test data by hand, but always can create it automatic
 - saver, faster introduction of new features
 
 - saver, faster refactoring, performance opting
+
+
+- Continous manual tests ARE error prone due to human misstakes caused by "boring repeating work". Quickly we start to assume that we thought of all (but in most cases we are damn wrong)
+
+- JavaScript: The nature of the language, its dynamism, makes it easy to introduce errors.
+
+- in some cases it can make the difference between making any change at all, or holding back out of fear of breaking something that seems to be working well enough
+
+- Tdd acts as first feedback for the programmmer during writing the programm. By recognising that writing tests for a particular piece of code is very hard you might realise that it could be done better and you start to change codes architecture during its development (whichis the cheapest moment at all)

@@ -30,4 +30,4 @@
 - dispatch event listener!
 
 # V8 Specific
-- Use constructor functions and initalize all object attributes/properties in this constructor (ensuring efficient hidden classes)
+- Use constructor functions and initalize all object attributes/properties in this constructor (ensuring efficient equal hidden classes)

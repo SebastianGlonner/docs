@@ -7,7 +7,7 @@ You will stop executing slow tests and in this case you do not need to write
 tests at all.
 
 - thus writing UNIT tests, testing small units of the code and creating
-tests for each unit separately
+tests for each unit separately, which, ultimately can run, separately
 
 - Easy tests! The tests has to be easy to read and understand!
 favour DAMP over DRY
@@ -16,3 +16,5 @@ favour DAMP over DRY
 - Think decoupled, consider using dependency injection whenever useful / possible
 
 - Try behaviour driven test names, reading the tests gives information of the purpose / functionality of the software
+
+- Tests must be easy to read/understand, tests most likely hast no loops and conditions but are a list of commands tha will run through
