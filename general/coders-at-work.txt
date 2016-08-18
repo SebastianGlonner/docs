@@ -1,0 +1,29 @@
+Coders at Work
+==============
+
+> What i have learned from reading the book so far
+
+
+* nobody can be perfect in every discipline, some are unmatched
+  in squeezing the last edge of performance,
+  others architecting etc.
+  find out what people can do and let em do this!
+
+
+* Refactoring is key to maintainable software, Daniel Crockfords suggests
+  to take at least 1 week for refactoring every 6 weeks?
+
+
+* Read "The art of computer programming"
+
+
+* Write READABLE code. The most important thing is to write code which
+  everyone else can understand!
+  Much more important than anything else!
+  For example prefer readability and maintainabiltity before performance!
+  (If requirements allow to! Means you may find yourself in situations where
+  performance does matter more!)
+
+
+* Larning by doing, reading, talking. You will get better the more code you
+  read, the more you code yourself, the more you will talk about coding with others!
