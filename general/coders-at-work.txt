@@ -23,6 +23,7 @@ Coders at Work
   For example prefer readability and maintainabiltity before performance!
   (If requirements allow to! Means you may find yourself in situations where
   performance does matter more!)
+  (By yourself a dictionary for coding: merriam-websters collegiate dictinary)
 
 
 * Larning by doing, reading, talking. You will get better the more code you
