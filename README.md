@@ -31,3 +31,12 @@ Or helping to explain yourself to others.
 
 - [Guidelines](https://github.com/SebastianGlonner/docs/blob/master/why/css.md)
 - [Unit Tests](https://github.com/SebastianGlonner/docs/blob/master/why/unit-tests.md)
+
+# Security
+
+> "Growing" list of security issues information scientists should be aware of
+
+- [XSS - Cross-Site Scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
+- [CSRF - Cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+- [JSON Vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)
+- [Session fixation](https://en.wikipedia.org/wiki/Session_fixation)
