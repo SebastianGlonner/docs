@@ -43,7 +43,8 @@ Hint: ALWAYS sanitize user input. NEVER asume users input can be trusted.
 - [JSON Vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)
 - [Session fixation](https://en.wikipedia.org/wiki/Session_fixation)
 - [HTTP response splitting](https://en.wikipedia.org/wiki/HTTP_response_splitting)
-- [Directory traversal attack]()
+- [Directory traversal attack](https://en.wikipedia.org/wiki/Directory_traversal_attack)
+- [target=_blank](https://mathiasbynens.github.io/rel-noopener/)
 
 > Worth reading for any projects:
 
