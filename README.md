@@ -44,7 +44,7 @@ Hint: ALWAYS sanitize user input. NEVER asume users input can be trusted.
 - [Session fixation](https://en.wikipedia.org/wiki/Session_fixation)
 - [HTTP response splitting](https://en.wikipedia.org/wiki/HTTP_response_splitting)
 - [Directory traversal attack](https://en.wikipedia.org/wiki/Directory_traversal_attack)
-- [target=_blank](https://mathiasbynens.github.io/rel-noopener/)
+- [target=_blank + rel=noreferrer|noopener](https://mathiasbynens.github.io/rel-noopener/)
 
 > Worth reading for any projects:
 
