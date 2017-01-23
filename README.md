@@ -34,9 +34,16 @@ Or helping to explain yourself to others.
 
 # Security
 
-Hint: ALWAYS sanitize user input. NEVER asume users input can be trusted.
+### General Security Things
 
-> "Growing" list of security issues information scientists should be aware of
+* ALWAYS sanitize user input. NEVER asume users input can be trusted.
+
+### SSL / Certificates
+
+* StartCom (StartSSL) and WoSign are considered untrusted by Chrome, Safari and Firefox. Dont buy these certificates. [@see this link](https://ma.ttias.be/despite-revoked-cas-startcom-wosign-continue-sell-certificates/)
+
+
+### "Growing" list of security issues, information scientists should be aware of
 
 - [XSS - Cross-Site Scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
 - [CSRF - Cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
@@ -46,11 +53,11 @@ Hint: ALWAYS sanitize user input. NEVER asume users input can be trusted.
 - [Directory traversal attack](https://en.wikipedia.org/wiki/Directory_traversal_attack)
 - [target=_blank + rel=noreferrer|noopener](https://mathiasbynens.github.io/rel-noopener/)
 
-> Worth reading for any projects:
+### Worth reading for any project/language:
 
 - [Wordpress Data Validation](https://codex.wordpress.org/Data_Validation)
 
-## PHP comparison "glitches": 
+### PHP comparison "glitches" you should know: 
 ```php 
 1 == '1 malicious string'; // => true - use strict comparison
 in_array('1 malicious string', [1, 2]) // => true - use strict mode in_array($str, $arr, true)
