@@ -6,5 +6,15 @@ pipeline {
         echo 'test'
       }
     }
+    stage('test2') {
+      steps {
+        sleep 4
+      }
+    }
+    stage('test3') {
+      steps {
+        error 'test'
+      }
+    }
   }
 }
